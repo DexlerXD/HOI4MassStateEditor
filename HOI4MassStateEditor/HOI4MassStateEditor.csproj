@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>HOI4MassStateEditor</AssemblyName>
+    <RootNamespace>HOI4MassStateEditor</RootNamespace>
+  </PropertyGroup>
+
+</Project>
