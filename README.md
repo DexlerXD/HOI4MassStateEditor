@@ -23,8 +23,3 @@ Now it's only a console application, but I'll probably remake it with Windows fo
     - Decide, whether you want to delete other tags before adding yours
     - Insert a path to the folder with state files
 4. PROFIT!
-
-You've done! Currently, program will break files with brackets coming after the `history = ` definition. I'm going to fix this soon, I'm just a bit lazy...
-
-> Like here\
-![](https://user-images.githubusercontent.com/69513582/222714720-b27df91d-4c38-4fdb-be79-bf0526aa4a59.png) 
