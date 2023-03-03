@@ -66,6 +66,12 @@ namespace HOI4MassStateEditor
             {
                 if (content[i].Contains("history"))
                 {
+                    if (!content[i].Contains("{"))
+                    {
+                        lineNum = i + 2;
+                        break;
+                    }
+
                     lineNum = i + 1;
                     break;
                 }

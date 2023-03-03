@@ -5,6 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>HOI4MassStateEditor</AssemblyName>
     <RootNamespace>HOI4MassStateEditor</RootNamespace>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
   </PropertyGroup>
 
 </Project>
