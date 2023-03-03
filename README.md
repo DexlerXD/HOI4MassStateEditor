@@ -1,6 +1,6 @@
 # HOI4MassStateEditor
 This is a very simple tool that lets you edit many hoi4 state files with ease!
-The main purpose of this programm is to quickly add and remove, if nedeed, some entries in state files (like `add_state_core` and `owner`).
+The main purpose of this program is to quickly add and remove, if nedeed, some entries in state files (like `add_state_core` and `owner`).
 I've created it to solve my modding problems, as I had needed to edit many files, deleting the same lines, which made this process very long and boring, so I hope that now everyone can do this easier and faster.
 ## Features
 This tool is currently capable of:
@@ -24,7 +24,7 @@ Now it's only a console application, but I'll probably remake it with Windows fo
     - Insert a path to the folder with state files
 4. PROFIT!
 
-You've done! Currently, programm will break files with brackets coming after the `history = ` definition. I'm going to fix this soon, I'm just a bit lazy...
+You've done! Currently, program will break files with brackets coming after the `history = ` definition. I'm going to fix this soon, I'm just a bit lazy...
 
 > Like here\
 ![](https://user-images.githubusercontent.com/69513582/222714720-b27df91d-4c38-4fdb-be79-bf0526aa4a59.png) 
