@@ -1,4 +1,5 @@
-# HOI4MassStateEditor
+# !!!PROJECT ARCHIVED!!!  
+**HOI4MassStateEditor**\
 This is a very simple tool that lets you edit many hoi4 state files with ease!
 The main purpose of this program is to quickly add and remove, if nedeed, some entries in state files (like `add_state_core` and `owner`).
 I've created it to solve my modding problems, as I had needed to edit many files, deleting the same lines, which made this process very long and boring, so I hope that now everyone can do this easier and faster.
